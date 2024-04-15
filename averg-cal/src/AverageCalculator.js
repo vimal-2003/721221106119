@@ -7,7 +7,6 @@ function AverageCalculator() {
   const handleInputChange = (event) => {
     setInput(event.target.value);
   };
-  
   const handleSubmit = (event) => {
     event.preventDefault();
     const newNumber = parseFloat(input);

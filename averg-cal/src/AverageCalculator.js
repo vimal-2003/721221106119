@@ -38,5 +38,4 @@ function AverageCalculator() {
     </div>
   );
 }
-
 export default AverageCalculator;
